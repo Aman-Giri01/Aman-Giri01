@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=30&pause=1000&color=00FF99&width=435&lines=COMPUTER+SCIENCE+STUDENT" alt="Typing SVG" /></a>
 
-# <img style="padding-left:10px" src="https://i.imgur.com/WOp54wA.gif" width="29px" /> <span style="color:#FF4081;">Hello world!</span>&nbsp;<img src="https://i.imgur.com/A1m0FzX.gif" width="24px">
+# <img style="padding-left:10px" src="https://i.imgur.com/WOp54wA.gif" width="29px" /> <span style="color:#FF4081;">Hi,there!</span>
 
 
 <p style="padding-left:10px">
