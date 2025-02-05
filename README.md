@@ -17,7 +17,7 @@ I'm a passionate CSE student with a strong interest in web development and backe
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a> 
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aman-kumar/" target="_blank">
+    <a href="(https://www.linkedin.com/in/aman-kumar-33ab3a304)" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a> 
     &nbsp;&nbsp;
