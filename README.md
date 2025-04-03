@@ -24,6 +24,9 @@ I'm a passionate CSE student with a strong interest in web development and backe
     <a href="mailto:amankumargiri2022@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
+    &nbsp;&nbsp;
+    <a href="https://komarev.com/ghpvc/?username=Aman-Giri01&style=for-the-badge&color=FF0050">
+    <img alt="github-profile views" title="YouTube views" src="https://komarev.com/ghpvc/?username=Aman-Giri02&style=for-the-badge&color=FF0050"/></a> 
 </p>
 
 
@@ -55,7 +58,7 @@ I'm a passionate CSE student with a strong interest in web development and backe
 
   <summary align="left"><h2  align="left">📊 Stats and Activity</h2></summary>
   
-  ![](https://github-readme-stats.vercel.app/api?username=Aman-Giri01&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide=stars,prs)<br/>
+ <!-- ![](https://github-readme-stats.vercel.app/api?username=Aman-Giri01&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide=stars,prs)<br/> -->
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Giri01&theme=shadow_blue&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Giri01&theme=shadow_blue&hide_border=false&layout=compact&langs_count=6)
 
