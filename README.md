@@ -25,8 +25,8 @@ I'm a passionate CSE student with a strong interest in web development and backe
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     &nbsp;&nbsp;
-    <a href="https://komarev.com/ghpvc/?username=Aman-Giri01&style=for-the-badge&color=FF0050">
-    <img alt="github-profile views" title="YouTube views" src="https://komarev.com/ghpvc/?username=Aman-Giri02&style=for-the-badge&color=FF0050"/></a> 
+   <!-- <a href="https://komarev.com/ghpvc/?username=Aman-Giri01&style=for-the-badge&color=FF0050">
+    <img alt="github-profile views" title="YouTube views" src="https://komarev.com/ghpvc/?username=Aman-Giri02&style=for-the-badge&color=FF0050"/></a> -->
 </p>
 
 
